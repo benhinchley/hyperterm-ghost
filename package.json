@@ -1,14 +1,14 @@
 {
-  "name": "hyperterminator",
-  "version": "1.0.0-beta.3",
-  "description": "Hyperterm theme for cybernetic organisms",
+  "name": "hyperterm-ghost",
+  "version": "1.0.0-alpha",
+  "description": "ghost theme for hyperterm",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
     "colors",
-    "terminator"
+    "ghost"
   ],
-  "author": "Brent Jackson",
+  "author": "Benjamin Hinchley <benjaminhinchley@gmail.com>",
   "license": "MIT"
 }
